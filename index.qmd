@@ -20,6 +20,23 @@ Note that this schedule will be updated as the semester progresses, with all cha
 |      |              |          |         |        |     |        |     |      |         |
 :::
 
+Topics that need to be included: 
+1. Introduction & Psychology as a Science
+2. Biopsychology
+3. States of Consciousness
+4. Sensation & Perception
+5. Learning
+6. Memory
+7. Thinking, Language & Intelligence
+8. Emotion & Motivation
+9. Development
+10. Personality
+11. Social Psychology
+12. Psychological Disorders
+13. Therapy & Treatment
+
+Ideas for assignments 
+
 ```{r echo = FALSE}
 knitr::knit_exit()
 ```

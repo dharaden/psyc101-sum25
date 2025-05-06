@@ -33,7 +33,7 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - newpage.qmd
+      - syllabus.qmd
       - section: subsection-files/index.qmd
         contents: 
           - subsection-files/sub_1.qmd
