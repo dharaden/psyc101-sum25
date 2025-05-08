@@ -3,56 +3,74 @@ project:
   
 website: 
   page-navigation: true
-  title: "Website Template" 
-  site-url: "https://dharaden.github.io/website_template" 
-  repo-url: https://github.com/dharaden/website_template 
+  title: "PSYC 101 - Summer 2025" 
+  site-url: "https://dharaden.github.io/psyc101-sum25/"
+  
+  repo-url: https://github.com/dharaden/psyc101-sum25 
   repo-actions: [issue]
   
-  page-footer:
-    right: "This page is built with ☕ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Dustin Haraden, 2024"
+  open-graph: true
     
   sidebar:
-    logo: "images/example_hex.png"
+    background: "#798b93"
+    logo: "images/logo.png"
     pinned: true
     align: center
+    
     tools: 
-      - icon: globe
-        href: https://google.com
-        text: "Your Website"
-      - icon: github
-        href: https://github.com/
-        text: "Your Github"
-      - icon: twitter
-        href: https://twitter.com/
-        text: "Your Twitter"         
+      - icon: file-play
+        href: https://youtube.com
+        text: "Lecture Videos"
+      - icon: person-fill
+        text: "myCourses"
+        menu: 
+          - text: Assignments
+            url: https://mycourses.rit.edu/d2l/lms/dropbox/user/folders_list.d2l?ou=1155274&isprv=0
+          - text: Grades
+            url: https://mycourses.rit.edu/d2l/lms/grades/my_grades/main.d2l?ou=1155274
+            
 
     style: "docked"
     search: true
     collapse-level: 1
+    
+    
     contents:
-      - href: index.qmd
-        text: Home
-      - syllabus.qmd
-      - section: subsection-files/index.qmd
-        contents: 
-          - subsection-files/sub_1.qmd
-          - subsection-files/sub_2.qmd 
-      - learning-more.qmd
+    
+    
+    contents:
+      - section: "Course information"
+        contents:
+          - href: course-overview.qmd
+            text: Overview
+          - href: course-syllabus.qmd
+            text: Syllabus
+          - href: index.qmd
+            text: Schedule
+          - href: course-links.qmd
+            text: Useful links
+      - section: "Assignments"
+        contents:
+          - href: assignment/assignment-1.qmd
+            text: "Assignment 1"
 
+  page-footer:
+      right: "This page is built with ☕ and [Quarto](https://quarto.org/)."
+      left: "&copy; CC-By Dustin Haraden, 2025"
+      background: "#5d6d74"
 
 format:
   html:
     theme:
-      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
-      dark: [cosmo, theme-dark.scss]
+      light: [cosmo, style/sta101.scss]
+      dark: [cosmo, style/sta101.scss, style/dark.scss]
+    linkcolor: "#798b93"
+    toc: true
     code-copy: true
     code-overflow: wrap
-    toc: true
+    mainfont: "Atkinson Hyperlegible"
 
+execute:
+  freeze: auto
 
-filters:
-  - include-files.lua
-  - quarto
-
-  
+editor: visual
