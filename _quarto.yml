@@ -36,10 +36,7 @@ website:
     
     
     contents:
-    
-    
-    contents:
-      - section: "Course information"
+      - section: "Course Information"
         contents:
           - href: course-overview.qmd
             text: Overview
