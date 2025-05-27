@@ -3,7 +3,9 @@ title: "Final Project"
 subtitle: "Due at 11:59 pm"
 ---
 
+::: callout-important
 Assignments are also posted in myCourses. Please submit your assignment on myCourses.
+:::
 
 # Description
 

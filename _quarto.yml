@@ -50,6 +50,16 @@ website:
         contents:
           - href: assignment/assignment-1.qmd
             text: "Assignment 1"
+          - href: assignment/assignment-2.qmd
+            text: "Assignment 2"
+          - href: assignment/assignment-3.qmd
+            text: "Assignment 3"
+          - href: assignment/assignment-4.qmd
+            text: "Assignment 4"
+          - href: assignment/assignment-5.qmd
+            text: "Assignment 5"
+          - href: assignment/final-project.qmd
+            text: "Final Project"
 
   page-footer:
       right: "This page is built with ☕ and [Quarto](https://quarto.org/)."

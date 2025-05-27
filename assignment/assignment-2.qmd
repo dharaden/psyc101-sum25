@@ -1,20 +1,10 @@
 ---
-title: "Assignment 1"
+title: "Assignment 2 - Sleep Journal"
 subtitle: "Due at 11:59 pm"
 ---
 
-Assignments are posted in myCourses
-
-The deliverable for this project (what you will turn in) is a written report. See below for more details.
-
-# Description
-
-For this project you will create a linear model (of your choosing) to predict newborn birth weights (or some transformation of the variable) using a sample of observations from 2020 US birth data originally sourced from [the Centers for Disease Control (CDC)](https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm).
-
-
-
 ::: callout-important
-All team members should be comfortable describing all aspects of the project and understanding all code.
+Assignments are posted in myCourses. Please submit your work there.
 :::
 
-
+## Description
