@@ -31,22 +31,16 @@ Spielman, R. M., Jenkins, W., & Lovett, M. (2020). Psychology 2e. <https://opens
 
 ***Note:*** *This is subject to change. Students will be notified immediately of any changes or updates.*
 
-Below you will find a schedule for the semester, with a rough outline of dates for each of the units. These dates are guidelines. For specific due dates, please refer to myCourses and/or the [schedule page](/index).
+Below you will find a schedule for the semester, with a rough outline of dates for each of the units. These dates are guidelines. For specific due dates, please refer to myCourses and/or the [schedule page](/index). All rubrics for assignments will be posted to myCourses as well as on this website.
 
 #### Module 1 (June 30–July 5)
 
 -   **Read**: OpenStax Ch. 1, 2 & 3 (Psychological Research, Biopsychology)
-
 -   **Watch**:
-
     -   Introductory lecture
-
     -   What is Psychology Research?
-
     -   Biopsychology
-
 -   **Assignments**:
-
     -   Introduction Video
 
     -   Syllabus Quiz - Content Quiz 1
@@ -60,7 +54,6 @@ Below you will find a schedule for the semester, with a rough outline of dates f
 -   **Assignments**:
     -   Content Quiz 2
     -   Sleep Journal (3 day minimum + Reflection)
-    -   Discussion: Altered States or Illusions????
 
 #### Module 3 (July 11–July 15)
 
@@ -111,14 +104,96 @@ Below you will find a schedule for the semester, with a rough outline of dates f
 
 ### **Grading Breakdown**
 
-| Assignment Type                                 | Points  | \% of Grade |
-|-------------------------------------------------|---------|-------------|
-| Weekly Quizzes (6)                              | 60      | 30%         |
-| Weekly Activities (Journals, Maps, Reflections) | 60      | 30%         |
-| Discussions (2)                                 | 20      | 10%         |
-| Final Project                                   | 40      | 20%         |
-| Intro Video & Syllabus Quiz                     | 20      | 10%         |
-| **Total**                                       | **200** | **100%**    |
++----------------------------------------------+-----------+-------------+
+| Assignment Type                              | Points    | \% of Grade |
++==============================================+===========+=============+
+| Quizzes (6)                                  | 60        | 30%         |
++----------------------------------------------+-----------+-------------+
+| Unit Activities                              | 60        | 30%         |
++----------------------------------------------+-----------+-------------+
+| Discussions (2)                              | 20        | 10%         |
++----------------------------------------------+-----------+-------------+
+| Final Project                                | 30        | 20%         |
++----------------------------------------------+-----------+-------------+
+| Intro Video & Syllabus Quiz                  | 20        | 10%         |
++----------------------------------------------+-----------+-------------+
+| SONA Credits (8 credits)                     | \-        | \-          |
++----------------------------------------------+-----------+-------------+
+| **Total**                                    | **200**   | **100%**    |
++----------------------------------------------+-----------+-------------+
+
+*Failure to complete all 8 SONA credits leads to a reduction of final grade by 3.3%*
+
+**Grade Scheme**
+
+<table>
+<tbody>
+<tr>
+<td><p>   </p>
+<p><strong>A</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>A-</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>B+</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>B</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>B-</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>C+</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>C</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>C-</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>D</strong></p>
+<p>   </p></td>
+<td><p>   </p>
+<p><strong>F</strong></p>
+<p>   </p></td>
+</tr>
+<tr>
+<td><p>   </p>
+<p>93+</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>90-92</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>87-89</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>83-86</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>80-82</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>77-79</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>73-76</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>70-72</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>60-69</p>
+<p>   </p></td>
+<td><p>   </p>
+<p>&lt; 60</p>
+<p>   </p></td>
+</tr>
+</tbody>
+</table>
 
 ------------------------------------------------------------------------
 
