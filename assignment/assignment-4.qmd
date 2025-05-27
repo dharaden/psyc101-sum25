@@ -1,6 +1,6 @@
 ---
 title: "Assignment 4 - Development in Media"
-subtitle: "Due at 11:59 pm"
+subtitle: "Due Sunday July 27th at 11:59 pm"
 ---
 
 ::: callout-important

@@ -1,6 +1,6 @@
 ---
 title: "Assignment 3 - Mini Experiment"
-subtitle: "Due at 11:59 pm"
+subtitle: "Due Sunday July 20th at 11:59 pm"
 ---
 
 ::: callout-important

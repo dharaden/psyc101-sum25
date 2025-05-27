@@ -1,6 +1,6 @@
 ---
 title: "Assignment 5 - Personality Test Drive"
-subtitle: "Due at 11:59 pm"
+subtitle: "Due Sunday August 3rd at 11:59 pm"
 ---
 
 ::: callout-important

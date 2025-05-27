@@ -1,6 +1,6 @@
 ---
 title: "Assignment 2 - Sleep Journal"
-subtitle: "Due at 11:59 pm"
+subtitle: "Due Sunday July 13th at 11:59 pm"
 ---
 
 ::: callout-important
