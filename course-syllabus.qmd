@@ -11,6 +11,8 @@ title: Syllabus
 | *Office Hours* | By Appointment                       |
 | *Class Times*  | Asynchronous                         |
 
+For a PDF copy of the syllabus: [Download File](/files/PSYC101_Syllabus.pdf)
+
 ### **Course Overview**
 
 This course offers a broad introduction to the field of Psychology, covering various sub-disciplines and emphasizing the scientific study of behavior and cognition. Students will gain a solid understanding of the scientific process, major psychological theories, and the correct usage of psychological terminology. The curriculum fosters critical evaluation skills for examining psychological research findings and highlights practical applications of psychological concepts in daily life. Emphasizing contemporary insights, the course focuses on the scientific method in measuring human behavior, with a student-centric approach that encourages active engagement and self-knowledge.
@@ -104,23 +106,23 @@ Below you will find a schedule for the semester, with a rough outline of dates f
 
 ### **Evaluation & Grading**
 
-+----------------------------------------------+-----------+-------------+
-| Assignment Type                              | Points    | \% of Grade |
-+==============================================+===========+=============+
-| Quizzes (6)                                  | 60        | 30%         |
-+----------------------------------------------+-----------+-------------+
-| Unit Activities                              | 60        | 30%         |
-+----------------------------------------------+-----------+-------------+
-| Discussions (2)                              | 20        | 10%         |
-+----------------------------------------------+-----------+-------------+
-| Final Project                                | 30        | 20%         |
-+----------------------------------------------+-----------+-------------+
-| Intro Video & Syllabus Quiz                  | 20        | 10%         |
-+----------------------------------------------+-----------+-------------+
-| SONA Credits (8 credits)                     | \-        | \-          |
-+----------------------------------------------+-----------+-------------+
-| **Total**                                    | **200**   | **100%**    |
-+----------------------------------------------+-----------+-------------+
++-----------------------------------------+-------------+-------------+
+| Assignment Type                         | Points      | \% of Grade |
++=========================================+=============+=============+
+| Quizzes (6)                             | 60          | 30%         |
++-----------------------------------------+-------------+-------------+
+| Unit Activities                         | 60          | 30%         |
++-----------------------------------------+-------------+-------------+
+| Discussions (2)                         | 20          | 10%         |
++-----------------------------------------+-------------+-------------+
+| Final Project                           | 30          | 20%         |
++-----------------------------------------+-------------+-------------+
+| Intro Video & Syllabus Quiz             | 20          | 10%         |
++-----------------------------------------+-------------+-------------+
+| SONA Credits (8 credits)                | \-          | \-          |
++-----------------------------------------+-------------+-------------+
+| **Total**                               | **200**     | **100%**    |
++-----------------------------------------+-------------+-------------+
 
 *Failure to complete all 8 SONA credits leads to a reduction of final grade by 3.3%*
 
@@ -148,17 +150,17 @@ The course will culminate in a final project that will be completed individually
 
 #### SONA Participation
 
-+------------------------------------------------------------------------------+
-| **Useful info**                                                              |
-|                                                                              |
-| SONA Director: Dr. Dustin Haraden                                            |
-|                                                                              |
-| Email: [sona\@rit.edu](mailto:sona@rit.edu)                                  |
-|                                                                              |
-| Information website (for more guidance): <https://ritpsych.github.io/sona/>  |
-|                                                                              |
-| Sona website (for signing up for studies): <https://rit.sona-systems.com>    |
-+------------------------------------------------------------------------------+
++-----------------------------------------------------------------------------+
+| **Useful info**                                                             |
+|                                                                             |
+| SONA Director: Dr. Dustin Haraden                                           |
+|                                                                             |
+| Email: [sona\@rit.edu](mailto:sona@rit.edu)                                 |
+|                                                                             |
+| Information website (for more guidance): <https://ritpsych.github.io/sona/> |
+|                                                                             |
+| Sona website (for signing up for studies): <https://rit.sona-systems.com>   |
++-----------------------------------------------------------------------------+
 
 Every PSYC101 student must earn **8 Sona credits**. You earn 1 credit per 15 minutes of participation, plus a bonus credit for face-to-face studies, so this will take you a maximum of 2 hours to complete. To earn Sona credits, you must sign up for studies through the psychology department’s Sona website. Other research will not qualify.
 
@@ -219,6 +221,10 @@ If you would like to report an incident of gender based discrimination or harass
 #### Academic Integrity Statement
 
 As an institution of higher learning, RIT expects students to behave honestly and ethically at all times, especially when submitting work for evaluation in conjunction with any course or degree requirement. The Department of Psychology encourages all students to become familiar with the [RIT Honor Code](https://www.rit.edu/academicaffairs/policiesmanual/p030) and with [RIT's Academic Integrity Policy](https://www.rit.edu/academicaffairs/policiesmanual/d080). RIT’s policy on academic integrity requires the instructor to investigate of any suspected breach of academic integrity. If the preponderance of evidence indicates a breach of academic integrity, the student who did so may incur a consequence up to and including failure for the entire course.
+
+*About Generative AI*
+
+Each course that you are involved in will have differing opinions and goals regarding generative AI (i.e., ChatGPT, Gemini, Perplexity, Claude, etc.). In this course you are allowed to use these as a tool. You can use prompts such as “Teach me about (insert psych topic here) and give me an example that might apply to me.” If you do use generative AI, I would like for you to disclose that information just so I can have a sense of how it is being used. If I suspect that the work that you have turned in is using AI, we will have to have a conversation to determine the next steps. Turning in AI work is considered plagiarism, and you may be asked to re-do the assignment, or possibly receive a 0 on the assignment.
 
 #### RIT COVID-19 Safety Plans
 
