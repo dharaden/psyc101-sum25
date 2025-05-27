@@ -8,37 +8,17 @@ This page contains an outline of the topics, content, and assignments for the se
 Note that this schedule will be updated as the semester progresses, with all changes documented here.
 
 ::: column-screen-inset-right
-| Week | Date         | Topic    | Prepare | Slides | AE  |  Labs  | HW  | Exam | Project |
-|------|--------------|----------|:-------:|:------:|:---:|:------:|:---:|:----:|:-------:|
-|      | Mon, June 30 |          |   📖    |   🖥️   | 📋  | [💻]() | ✍️  |  ✅  |   📂    |
-|      | Mon, July 7  |          |         |        |     |        |     |      |         |
-|      | Mon, July 14 |          |         |        |     |        |     |      |         |
-|      | Mon, July 21 |          |         |        |     |        |     |      |         |
-|      | Mon, July 28 |          |         |        |     |        |     |      |         |
-|      | Mon, Aug 4   |          |         |        |     |        |     |      |         |
-|      | Wed, Aug 6   | LAST DAY |         |        |     |        |     |      |         |
-|      |              |          |         |        |     |        |     |      |         |
+| Unit | Topics                                 | Readings | Lecture | Assignment | Quiz |
+|:-----:|----------------------|:--------:|:-------:|:----------:|:------:|
+|  1   | Psychological Research & Biopsychology |    📖    |   🖥️    |     ✍️     |  ✅  |
+|  2   | Consciousness & Sensation/Perception   |          |         |            |      |
+|  3   | Learning, Memory, Cognition            |          |         |            |      |
+|  4   | Emotion, Motivation, Development       |          |         |            |      |
+|  5   | Personality, Social Psychology         |          |         |            |      |
+|  6   | Psych Disorders, Therapy & Treatment   |          |         |            |      |
 :::
 
-
-
-Topics to include: 
-1. Psychology as a Science
-2. Biopsychology (Neuroscience & Behavior)
-3. States of Consciousness - Sensation & Perception
-4. Learning & Memory
-5. Thinking, Language & Intelligence
-6. Emotion & Motivation
-7. Development
-8. Personality
-9. Social Psychology
-10. Psychological Disorders
-11. Therapy & Treatment
-
-
-
-
-Ideas for assignments 
+Ideas for assignments
 
 ```{r echo = FALSE}
 knitr::knit_exit()
