@@ -1,20 +1,24 @@
 ---
-title: "Course overview"
+title: "Course Overview"
 ---
 
-This is the homepage for STA 101 - Data Analysis and Statistical Inference taught by [Dr. Mine Çetinkaya-Rundel](http://mine-cr.com/) in Fall 2023 at Duke University. All course materials will be posted on this site.
+This is the homepage for PSYC101 - Introduction to Psychology taught by Dr. Dustin Haraden in Summer 2025 at Rochester Institute of Technology. All course materials will be posted on this site.
 
-You can find the course syllabus [here](/syllabus) and the course schedule [here](/).
+You can find the course syllabus [here](/course-syllabus) and the course schedule [here](/index).
 
-## Class meetings
+## Class Structure
 
-| Meeting  | Location                       | Time                     | Instructor / Lab leader |
-|----------|--------------------------------|--------------------------|-------------------------|
-| Lectures | Gross Hall 103                 | Mon & Wed 1:25 - 2:40 pm | Mine                    |
-| Lab 1    | Perkins LINK 087 (Classroom 3) | Fri 8:30 - 9:45 am       | Shuo                    |
-| Lab 2    | Perkins LINK 087 (Classroom 3) | Fri 10:05 - 11:20 am     | Sylvia                  |
-| Lab 3    | Perkins LINK 087 (Classroom 3) | Fri 11:45 am - 1:00 pm   | John                    |
-| Lab 4    | Perkins LINK 087 (Classroom 3) | Fri 1:25 - 2:40 pm       | Chris                   |
+This course will be accelerated, but will also be self-paced (i.e., asynchronous). There will be set deadlines for various projects/assignments, but you are free to structure your time otherwise. There will be 6 total units that cover a brief introduction into various areas of psychology. Each topic will typically consist of:
+
+-   Brief Lectures
+
+-   Readings
+
+-   Assignment
+
+-   Content Quiz
+
+There will not be a final exam, but there will be a final project that will be due at the end of the semester.
 
 <br>
 

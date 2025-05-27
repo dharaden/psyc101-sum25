@@ -2,110 +2,143 @@
 title: Syllabus
 ---
 
-**Intro to Psychology (Online, 6-Week Asynchronous)**
+## **Intro to Psychology (Online, 6-Week Asynchronous)**
+
+|                |                                      |
+|----------------|--------------------------------------|
+| **Professor**  | Dustin Haraden, PhD                  |
+| *Email/Office* | dxhgsh\@rit.edu; Eastman Hall - 3378 |
+| *Office Hours* | By Appointment                       |
+| *Class Times*  | Asynchronous                         |
 
 ### **Course Overview**
 
-This accelerated 6-week asynchronous course provides an introduction to the science of psychology, covering major theories, methods, and applications across biological, cognitive, emotional, developmental, and social domains. Emphasis is on active learning, self-reflection, and real-world application.
+This course offers a broad introduction to the field of Psychology, covering various sub-disciplines and emphasizing the scientific study of behavior and cognition. Students will gain a solid understanding of the scientific process, major psychological theories, and the correct usage of psychological terminology. The curriculum fosters critical evaluation skills for examining psychological research findings and highlights practical applications of psychological concepts in daily life. Emphasizing contemporary insights, the course focuses on the scientific method in measuring human behavior, with a student-centric approach that encourages active engagement and self-knowledge.
 
-### **Course Objectives**
-
-By the end of this course, students will be able to:
-
-* Identify key concepts and theories across major areas of psychology
-* Apply psychological principles to everyday behavior and mental processes
-* Critically evaluate psychological research and media
-* Reflect on their own development, thoughts, and emotions
-
----
+------------------------------------------------------------------------
 
 ### **Required Materials**
 
-* OpenStax Psychology (free online textbook)
-* Supplemental videos, podcasts, and articles (linked in LMS)
+**Textbook**: We will an open source (this means free) textbook throughout the semester. The link to the textbook is included below. A PDF version of the text is uploaded to myCourses.  
 
----
+Spielman, R. M., Jenkins, W., & Lovett, M. (2020). Psychology 2e. <https://openstax.org/details/books/psychology-2e>
+
+**Other Required Readings**: All additional readings (if necessary) will be posted to the course website.
+
+------------------------------------------------------------------------
 
 ### **Weekly Schedule & Topics**
 
-**Week 1: Foundations**
-Topics: Introduction to Psychology, Research Methods, Biopsychology
-Assignments:
+***Note:*** *This is subject to change. Students will be notified immediately of any changes or updates.*
 
-* Syllabus & Academic Integrity Quiz (Auto-graded)
-* Flipgrid Intro Video (2-minute intro)
-* Quiz 1: Brain & Methods (Auto-graded)
+Below you will find a schedule for the semester, with a rough outline of dates for each of the units. These dates are guidelines. For specific due dates, please refer to myCourses and/or the [schedule page](/index).
 
-**Week 2: Experience & Awareness**
-Topics: States of Consciousness, Sensation & Perception
-Assignments:
+#### Module 1 (June 30–July 5)
 
-* Sleep Journal (3 days + reflection)
-* Quiz 2: Sensation & Sleep (Auto-graded)
+-   **Read**: OpenStax Ch. 1, 2 & 3 (Psychological Research, Biopsychology)
 
-**Week 3: Learning & Memory**
-Topics: Classical & Operant Conditioning, Memory Systems
-Assignments:
+-   **Watch**:
 
-* Mini-Experiment Reflection (e.g., shape your behavior with reinforcement)
-* Memory Infographic or Concept Map
-* Quiz 3: Learning & Memory
+    -   Introductory lecture
 
-**Week 4: Cognition & Development**
-Topics: Thinking, Language & Intelligence, Emotion & Motivation, Development
-Assignments:
+    -   What is Psychology Research?
 
-* Development in the Media: Short reflection paper (e.g., analyze a movie or show)
-* Quiz 4: Cognitive & Developmental Psychology
+    -   Biopsychology
 
-**Week 5: Personality & Social Behavior**
-Topics: Personality Theories, Social Influence, Group Behavior
-Assignments:
+-   **Assignments**:
 
-* Personality Test Reflection (Myers-Briggs, Big Five – with disclaimers)
-* Discussion Post: Conformity or Obedience (respond to a prompt + 1 peer reply)
-* Quiz 5: Personality & Social Psych
+    -   Introduction Video
 
-**Week 6: Psychological Health**
-Topics: Psychological Disorders, Therapy & Treatment
-Assignments:
+    -   Syllabus Quiz - Content Quiz 1
 
-* Case Study: Choose a disorder, design a brief treatment plan (1 page)
-* Final Project Due: Create a PSA, podcast, short paper, or infographic on a psych topic
-* Quiz 6: Disorders & Therapy
+#### Module 2 (July 6–July 10)
 
----
+-   **Read**: OpenStax Ch. 4 & 5 (Consciousness, Sensation/Perception)
+-   **Watch**:
+    -   Sleep & Circadian Rhythms
+    -   Sensation/Perception
+-   **Assignments**:
+    -   Content Quiz 2
+    -   Sleep Journal (3 day minimum + Reflection)
+    -   Discussion: Altered States or Illusions????
+
+#### Module 3 (July 11–July 15)
+
+-   **Read**: OpenStax Ch. 6, 7, 8 (Learning, Memory, Cognition)
+-   **Watch**:
+    -   Classical Conditioning vs. Operant Conditioning
+    -   Memory
+-   **Assignments**:
+    -   Content Quiz 3
+    -   Mini-Experiment Reflection (e.g., shape your behavior with reinforcement)
+
+#### Module 4 (July 16–July 20)
+
+-   **Read**: OpenStax Ch. 9 & 10 (Emotion, Motivation, Development)
+-   **Watch**:
+    -   Emotions/Motivation
+    -   Development
+-   **Assignments**:
+    -   Content Quiz 4
+    -   Development in the Media: Short reflection paper (e.g., analyze a movie or show)
+
+#### Module 5 (July 21–July 27)
+
+-   **Read**: OpenStax Ch. 11 & 12 (Personality, Social Psychology)
+-   **Watch**:
+    -   Personality - Classification
+-   **Assignments**:
+    -   Content Quiz 5
+    -   Personality Test Drive
+
+#### Module 6 (July 28–Aug 6)
+
+-   **Read**: OpenStax Ch. 15 & 16 (Psych Disorders, Therapy & Treatment) + science vs. pseudoscience resources
+-   **Watch**:
+    -   Psych Disorders
+    -   Therapy
+-   **Assignments**:
+    -   Content Quiz 6
+
+#### **Final Project Options (Choose One)**
+
+1.  **Podcast Episode (5–7 minutes):** Explain a psychological concept with examples.
+2.  **Infographic:** Visually explain a major topic (e.g., stages of sleep, types of memory).
+3.  **Short Paper (2 pages):** Analyze a psychological issue or concept.
+4.  **Public Service Announcement:** Educate others on a disorder or mental health topic.
+
+------------------------------------------------------------------------
 
 ### **Grading Breakdown**
 
-| Assignment Type                                 | Points  | % of Grade |
-| ----------------------------------------------- | ------- | ---------- |
-| Weekly Quizzes (6)                              | 60      | 30%        |
-| Weekly Activities (Journals, Maps, Reflections) | 60      | 30%        |
-| Discussions (2)                                 | 20      | 10%        |
-| Final Project                                   | 40      | 20%        |
-| Intro Video & Syllabus Quiz                     | 20      | 10%        |
-| **Total**                                       | **200** | **100%**   |
+| Assignment Type                                 | Points  | \% of Grade |
+|-------------------------------------------------|---------|-------------|
+| Weekly Quizzes (6)                              | 60      | 30%         |
+| Weekly Activities (Journals, Maps, Reflections) | 60      | 30%         |
+| Discussions (2)                                 | 20      | 10%         |
+| Final Project                                   | 40      | 20%         |
+| Intro Video & Syllabus Quiz                     | 20      | 10%         |
+| **Total**                                       | **200** | **100%**    |
 
----
+------------------------------------------------------------------------
 
 ### **Course Policies**
 
-* **Late Work:** 3-day grace period with no penalty. Beyond that, contact me.
-* **Academic Integrity:** Follow RIT's policies. Plagiarism = zero credit.
-* **Communication:** Weekly announcements posted; email replies within 48 hours.
+-   **Late Work:** 3-day grace period with no penalty. Beyond that, contact me.
+-   **Academic Integrity:** Follow RIT's policies. Plagiarism = zero credit.
+-   **Communication:** Weekly announcements posted; email replies within 48 hours.
 
----
+------------------------------------------------------------------------
 
 ### **Final Project Options (Choose One)**
 
-1. **Podcast Episode (5–7 minutes):** Explain a psychological concept with examples.
-2. **Infographic:** Visually explain a major topic (e.g., stages of sleep, types of memory).
-3. **Short Paper (2–3 pages):** Analyze a psychological issue or concept.
-4. **Public Service Announcement:** Educate others on a disorder or mental health topic.
+1.  **Podcast Episode (5–7 minutes):** Explain a psychological concept with examples.
+2.  **Infographic:** Visually explain a major topic (e.g., stages of sleep, types of memory).
+3.  **Short Paper (2–3 pages):** Analyze a psychological issue or concept.
+4.  **Public Service Announcement:** Educate others on a disorder or mental health topic.
 
 Rubrics provided in LMS.
 
----
+------------------------------------------------------------------------
 
 **Let's make psychology meaningful, creative, and relevant to your life.**
