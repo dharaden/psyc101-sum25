@@ -1,6 +1,6 @@
 ---
 title: "PSYC 101: Introduction to Psychology"
-tbl-colwidths: [5,20,10,15,5,15,15]
+tbl-colwidths: [2,20,10,10,10,15]
 ---
 
 This page contains an outline of the topics, content, and assignments for the semester.
@@ -8,9 +8,9 @@ This page contains an outline of the topics, content, and assignments for the se
 Note that this schedule will be updated as the semester progresses, with all changes documented here.
 
 ::: column-screen-inset-right
-+---------+----------------------------------------+:------------:+:--------:+:----------------------:+:--------------:+
-| Unit    | Topics                                 | Readings     | Lectures | Assignments            | Quiz           |
 +---------+----------------------------------------+--------------+----------+------------------------+----------------+
+| Unit    | Topics                                 | Readings     | Lectures | Assignments            | Quiz           |
++:=======:+========================================+:============:+:========:+:======================:+:==============:+
 | 1       | Psychological Research & Biopsychology | Ch. 1, 2 & 3 |          | Introduction Video     | Syllabus Quiz  |
 |         |                                        |              |          |                        |                |
 |         |                                        |              |          |                        | Content Quiz 1 |
