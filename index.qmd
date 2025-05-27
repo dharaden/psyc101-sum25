@@ -8,25 +8,25 @@ This page contains an outline of the topics, content, and assignments for the se
 Note that this schedule will be updated as the semester progresses, with all changes documented here.
 
 ::: column-screen-inset-right
-+---------+----------------------------------------+--------------+----------+------------------------+----------------+
-| Unit    | Topics                                 | Readings     | Lectures | Assignments            | Quiz           |
-+:=======:+========================================+:============:+:========:+:======================:+:==============:+
-| 1       | Psychological Research & Biopsychology | Ch. 1, 2 & 3 |          | Introduction Video     | Syllabus Quiz  |
-|         |                                        |              |          |                        |                |
-|         |                                        |              |          |                        | Content Quiz 1 |
-+---------+----------------------------------------+--------------+----------+------------------------+----------------+
-| 2       | Consciousness & Sensation/Perception   | Ch. 4 & 5    |          | Sleep Journal          | Content Quiz 2 |
-+---------+----------------------------------------+--------------+----------+------------------------+----------------+
-| 3       | Learning, Memory, Cognition            | Ch. 6, 7, 8  |          | Mini-Experiment        | Content Quiz 3 |
-+---------+----------------------------------------+--------------+----------+------------------------+----------------+
-| 4       | Emotion, Motivation, Development       | Ch. 9 & 10   |          | Development in Media   | Content Quiz 4 |
-+---------+----------------------------------------+--------------+----------+------------------------+----------------+
-| 5       | Personality, Social Psychology         | Ch. 11 & 12  |          | Personality Test Drive | Content Quiz 5 |
-+---------+----------------------------------------+--------------+----------+------------------------+----------------+
-| 6       | Psych Disorders, Therapy & Treatment   | Ch. 15 & 16  |          |                        |                |
-+---------+----------------------------------------+--------------+----------+------------------------+----------------+
++---------+----------------------------------------+--------------+----------+----------------------------------------------------+----------------+
+| Unit    | Topics                                 | Readings     | Lectures | Assignments                                        | Quiz           |
++:=======:+========================================+:============:+:========:+:==================================================:+:==============:+
+| 1       | Psychological Research & Biopsychology | Ch. 1, 2 & 3 |          | [Introduction Video](/assignment/assignment-1)     | Syllabus Quiz  |
+|         |                                        |              |          |                                                    |                |
+|         |                                        |              |          |                                                    | Content Quiz 1 |
++---------+----------------------------------------+--------------+----------+----------------------------------------------------+----------------+
+| 2       | Consciousness & Sensation/Perception   | Ch. 4 & 5    |          | [Sleep Journal](/assignment/assignment-2)          | Content Quiz 2 |
++---------+----------------------------------------+--------------+----------+----------------------------------------------------+----------------+
+| 3       | Learning, Memory, Cognition            | Ch. 6, 7, 8  |          | [Mini-Experiment](/assignment/assignment-3)        | Content Quiz 3 |
++---------+----------------------------------------+--------------+----------+----------------------------------------------------+----------------+
+| 4       | Emotion, Motivation, Development       | Ch. 9 & 10   |          | [Development in Media](/assignment/assignment-4)   | Content Quiz 4 |
++---------+----------------------------------------+--------------+----------+----------------------------------------------------+----------------+
+| 5       | Personality, Social Psychology         | Ch. 11 & 12  |          | [Personality Test Drive](/assignment/assignment-5) | Content Quiz 5 |
++---------+----------------------------------------+--------------+----------+----------------------------------------------------+----------------+
+| 6       | Psych Disorders, Therapy & Treatment   | Ch. 15 & 16  |          |                                                    |                |
++---------+----------------------------------------+--------------+----------+----------------------------------------------------+----------------+
 
-**Final Project: (Due August 10th \@ 11:59pm)**
+[**Final Project**](/assignment/final-project)**: (Due August 10th \@ 11:59pm)**
 :::
 
 ```{r echo = FALSE}
