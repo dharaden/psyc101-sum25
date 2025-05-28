@@ -106,23 +106,23 @@ Below you will find a schedule for the semester, with a rough outline of dates f
 
 ### **Evaluation & Grading**
 
-+-----------------------------------------+-------------+-------------+
-| Assignment Type                         | Points      | \% of Grade |
-+=========================================+=============+=============+
-| Quizzes (6)                             | 60          | 30%         |
-+-----------------------------------------+-------------+-------------+
-| Unit Activities                         | 60          | 30%         |
-+-----------------------------------------+-------------+-------------+
-| Discussions (2)                         | 20          | 10%         |
-+-----------------------------------------+-------------+-------------+
-| Final Project                           | 30          | 20%         |
-+-----------------------------------------+-------------+-------------+
-| Intro Video & Syllabus Quiz             | 20          | 10%         |
-+-----------------------------------------+-------------+-------------+
-| SONA Credits (8 credits)                | \-          | \-          |
-+-----------------------------------------+-------------+-------------+
-| **Total**                               | **200**     | **100%**    |
-+-----------------------------------------+-------------+-------------+
++--------------------------------------+-----------------+--------------+
+| Assignment Type                      | Points          | \% of Grade  |
++======================================+=================+==============+
+| Intro Video & Syllabus Quiz          | 40              | 10%          |
++--------------------------------------+-----------------+--------------+
+| Quizzes (6)                          | 138 (23 each)   | 35%          |
++--------------------------------------+-----------------+--------------+
+| Unit Activities (4)                  | 138 (34.5 each) | 35%          |
++--------------------------------------+-----------------+--------------+
+| Discussion Post & Reply              | 20              | 5%           |
++--------------------------------------+-----------------+--------------+
+| Final Project                        | 60              | 15%          |
++--------------------------------------+-----------------+--------------+
+| SONA Credits (8 credits)             | \-              | \-           |
++--------------------------------------+-----------------+--------------+
+| **Total**                            | **396**         | **100%**     |
++--------------------------------------+-----------------+--------------+
 
 *Failure to complete all 8 SONA credits leads to a reduction of final grade by 3.3%*
 
@@ -142,7 +142,9 @@ The assignments for this class will consist of utilizing your knowledge of the t
 
 #### Discussions
 
-To help bring the discussion beyond the class, there will be the expectation that you will create and engage with discussion posts (2 created & 1 response). The posts will focus on an area of psychology that is of interest to you. The goal of these posts is for you to share information that you have gathered from elsewhere and bring in to provide some additional information. Topics of these discussions can vary from examining the science behind pop-science articles, reflecting on reading a scientific study, identifying a popular myth in psychology and describing why it is a myth. More information will be available on myCourses/course site to highlight the specific content and expectations.
+To help bring the discussion beyond the class, there will be the expectation that you will create and engage with discussion posts (Minimum of 1 created & 1 response). The posts will focus on an area of psychology that is of interest to you. The goal of these posts is for you to share information that you have gathered from elsewhere and bring in to provide some additional information. Topics of these discussions may vary from examining the science behind pop-science articles, reflecting on reading a scientific study, identifying a popular myth in psychology and describing why it is a myth. More information will be available on myCourses/course site to highlight the specific content and expectations.
+
+*Discussion posts and replies must be completed prior to deadline (7/25/25 at 11:59pm)*
 
 #### Final Project
 
