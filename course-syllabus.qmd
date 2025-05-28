@@ -47,7 +47,7 @@ Below you will find a schedule for the semester, with a rough outline of dates f
     -   Syllabus Quiz
     -   Content Quiz 1
 
-#### Module 2 
+#### Module 2
 
 -   **Read**: OpenStax Ch. 4 & 5 (Consciousness, Sensation/Perception)
 -   **Watch**:
@@ -57,7 +57,7 @@ Below you will find a schedule for the semester, with a rough outline of dates f
     -   Content Quiz 2
     -   Sleep Journal (3 day minimum + Reflection)
 
-#### Module 3 
+#### Module 3
 
 -   **Read**: OpenStax Ch. 6, 7, 8 (Learning, Memory, Cognition)
 -   **Watch**:
@@ -67,7 +67,7 @@ Below you will find a schedule for the semester, with a rough outline of dates f
     -   Content Quiz 3
     -   Mini-Experiment Reflection (e.g., shape your behavior with reinforcement)
 
-#### Module 4 
+#### Module 4
 
 -   **Read**: OpenStax Ch. 9 & 10 (Emotion, Motivation, Development)
 -   **Watch**:
@@ -77,7 +77,7 @@ Below you will find a schedule for the semester, with a rough outline of dates f
     -   Content Quiz 4
     -   Development in the Media
 
-#### Module 5 
+#### Module 5
 
 -   **Read**: OpenStax Ch. 11 & 12 (Personality, Social Psychology)
 -   **Watch**:
@@ -106,23 +106,23 @@ Below you will find a schedule for the semester, with a rough outline of dates f
 
 ### **Evaluation & Grading**
 
-+-----------------------------------+-----------------+----------------+
-| Assignment Type                   | Points          | \% of Grade    |
-+===================================+=================+================+
-| Intro Video & Syllabus Quiz       | 40              | 10%            |
-+-----------------------------------+-----------------+----------------+
-| Quizzes (6) - lowest dropped      | 138 (23 each)   | 35%            |
-+-----------------------------------+-----------------+----------------+
-| Unit Activities (4)               | 138 (34.5 each) | 35%            |
-+-----------------------------------+-----------------+----------------+
-| Discussion Post & Reply           | 20              | 5%             |
-+-----------------------------------+-----------------+----------------+
-| Final Project                     | 60              | 15%            |
-+-----------------------------------+-----------------+----------------+
-| SONA Credits (8 credits)          | \-              | \-             |
-+-----------------------------------+-----------------+----------------+
-| **Total**                         | **396**         | **100%**       |
-+-----------------------------------+-----------------+----------------+
++----------------------------------+----------------+----------------+
+| Assignment Type                  | Points         | \% of Grade    |
++==================================+================+================+
+| Intro Video & Syllabus Quiz      | 40             | 10%            |
++----------------------------------+----------------+----------------+
+| Quizzes (6) - lowest dropped     | 125            | 35%            |
++----------------------------------+----------------+----------------+
+| Unit Activities (4)              | 140            | 35%            |
++----------------------------------+----------------+----------------+
+| Discussion Post & Reply          | 20             | 5%             |
++----------------------------------+----------------+----------------+
+| Final Project                    | 60             | 15%            |
++----------------------------------+----------------+----------------+
+| SONA Credits (8 credits)         | \-             | \-             |
++----------------------------------+----------------+----------------+
+| **Total**                        | **385**        | **100%**       |
++----------------------------------+----------------+----------------+
 
 *Failure to complete all 8 SONA credits leads to a reduction of final grade by 3.3%*
 

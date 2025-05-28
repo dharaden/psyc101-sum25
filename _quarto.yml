@@ -1,6 +1,9 @@
 project: 
   type: website
   
+params:
+  assign_points: 35  # Points to be consistent across all assignments
+
 website: 
   page-navigation: true
   title: "PSYC 101 - Summer 2025" 
