@@ -49,15 +49,15 @@ website:
       - section: "Assignments"
         contents:
           - href: assignment/assignment-1.qmd
-            text: "Assignment 1"
+            text: "1 Intro Video"
           - href: assignment/assignment-2.qmd
-            text: "Assignment 2"
+            text: "2 Sleep Tracking"
           - href: assignment/assignment-3.qmd
-            text: "Assignment 3"
+            text: "3 Mini-Experiment"
           - href: assignment/assignment-4.qmd
-            text: "Assignment 4"
+            text: "4 Development in Media"
           - href: assignment/assignment-5.qmd
-            text: "Assignment 5"
+            text: "5 Personality Test Drive"
           - href: assignment/final-project.qmd
             text: "Final Project"
 

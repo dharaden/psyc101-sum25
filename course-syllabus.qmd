@@ -97,32 +97,32 @@ Below you will find a schedule for the semester, with a rough outline of dates f
 
 #### **Final Project Options (Choose One)**
 
-1.  **Podcast Episode (5–7 minutes):** Explain a psychological concept with examples.
+1.  **Podcast Episode:** Explain a psychological concept with examples.
 2.  **Infographic:** Visually explain a major topic (e.g., stages of sleep, types of memory).
-3.  **Short Paper (2 pages):** Analyze a psychological issue or concept.
+3.  **Short Paper:** Analyze a psychological issue or concept.
 4.  **Public Service Announcement:** Educate others on a disorder or mental health topic.
 
 ------------------------------------------------------------------------
 
 ### **Evaluation & Grading**
 
-+--------------------------------------+-----------------+--------------+
-| Assignment Type                      | Points          | \% of Grade  |
-+======================================+=================+==============+
-| Intro Video & Syllabus Quiz          | 40              | 10%          |
-+--------------------------------------+-----------------+--------------+
-| Quizzes (6)                          | 138 (23 each)   | 35%          |
-+--------------------------------------+-----------------+--------------+
-| Unit Activities (4)                  | 138 (34.5 each) | 35%          |
-+--------------------------------------+-----------------+--------------+
-| Discussion Post & Reply              | 20              | 5%           |
-+--------------------------------------+-----------------+--------------+
-| Final Project                        | 60              | 15%          |
-+--------------------------------------+-----------------+--------------+
-| SONA Credits (8 credits)             | \-              | \-           |
-+--------------------------------------+-----------------+--------------+
-| **Total**                            | **396**         | **100%**     |
-+--------------------------------------+-----------------+--------------+
++------------------------------------+-----------------+---------------+
+| Assignment Type                    | Points          | \% of Grade   |
++====================================+=================+===============+
+| Intro Video & Syllabus Quiz        | 40              | 10%           |
++------------------------------------+-----------------+---------------+
+| Quizzes (6)                        | 138 (23 each)   | 35%           |
++------------------------------------+-----------------+---------------+
+| Unit Activities (4)                | 138 (34.5 each) | 35%           |
++------------------------------------+-----------------+---------------+
+| Discussion Post & Reply            | 20              | 5%            |
++------------------------------------+-----------------+---------------+
+| Final Project                      | 60              | 15%           |
++------------------------------------+-----------------+---------------+
+| SONA Credits (8 credits)           | \-              | \-            |
++------------------------------------+-----------------+---------------+
+| **Total**                          | **396**         | **100%**      |
++------------------------------------+-----------------+---------------+
 
 *Failure to complete all 8 SONA credits leads to a reduction of final grade by 3.3%*
 
