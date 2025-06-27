@@ -9,4 +9,4 @@ Assignments are posted in myCourses. Please submit your work there.
 
 ## Description
 
-**Points: `r params$assign_points`**
+**Points:** {{< var assign_points >}}
