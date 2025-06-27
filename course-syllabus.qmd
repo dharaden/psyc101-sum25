@@ -33,7 +33,7 @@ Spielman, R. M., Jenkins, W., & Lovett, M. (2020). Psychology 2e. <https://opens
 
 ***Note:*** *This is subject to change. Students will be notified immediately of any changes or updates.*
 
-Below you will find a schedule for the semester, with a rough outline of dates for each of the units. These dates are guidelines. For specific due dates, please refer to myCourses and/or the [schedule page](/index). All rubrics for assignments will be posted to myCourses as well as on this website.
+Below you will find an outline for the course, with a rough outline of dates for each of the units. For specific due dates, please refer to myCourses and/or the [schedule page](/index). All rubrics for assignments will be posted to myCourses as well as on this website.
 
 #### Module 1
 
@@ -106,23 +106,23 @@ Below you will find a schedule for the semester, with a rough outline of dates f
 
 ### **Evaluation & Grading**
 
-+----------------------------------+----------------+----------------+
-| Assignment Type                  | Points         | \% of Grade    |
-+==================================+================+================+
-| Intro Video & Syllabus Quiz      | 40             | 10%            |
-+----------------------------------+----------------+----------------+
-| Quizzes (6) - lowest dropped     | 125            | 35%            |
-+----------------------------------+----------------+----------------+
-| Unit Activities (4)              | 140            | 35%            |
-+----------------------------------+----------------+----------------+
-| Discussion Post & Reply          | 20             | 5%             |
-+----------------------------------+----------------+----------------+
-| Final Project                    | 60             | 15%            |
-+----------------------------------+----------------+----------------+
-| SONA Credits (8 credits)         | \-             | \-             |
-+----------------------------------+----------------+----------------+
-| **Total**                        | **385**        | **100%**       |
-+----------------------------------+----------------+----------------+
++---------------------------------+----------------+----------------+
+| Assignment Type                 | Points         | \% of Grade    |
++=================================+================+================+
+| Intro Video & Syllabus Quiz     | 40             | 10%            |
++---------------------------------+----------------+----------------+
+| Quizzes (6) - lowest dropped    | 125            | 35%            |
++---------------------------------+----------------+----------------+
+| Unit Activities (4)             | 140            | 35%            |
++---------------------------------+----------------+----------------+
+| Discussion Post & Reply         | 20             | 5%             |
++---------------------------------+----------------+----------------+
+| Final Project                   | 60             | 15%            |
++---------------------------------+----------------+----------------+
+| SONA Credits (8 credits)        | \-             | \-             |
++---------------------------------+----------------+----------------+
+| **Total**                       | **385**        | **100%**       |
++---------------------------------+----------------+----------------+
 
 *Failure to complete all 8 SONA credits leads to a reduction of final grade by 3.3%*
 
