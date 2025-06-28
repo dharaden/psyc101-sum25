@@ -63,6 +63,9 @@ website:
             text: "5 Personality Test Drive"
           - href: assignment/final-project.qmd
             text: "Final Project"
+        - href: lectures.qmd
+          text: "Lecture Slides"
+        
 
   page-footer:
       right: "This page is built with ☕ and [Quarto](https://quarto.org/)."

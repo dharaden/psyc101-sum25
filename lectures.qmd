@@ -1,0 +1,38 @@
+---
+title: "Lecture Slides"
+tbl-colwidths: [2,18,15]
+---
+
+## Course Slides
+
+This section will provide links to all slides in the course. Please review the slides along with the accompanying video.
+
+<div>
+
++----------+----------------------------------------+---------------------------------+
+| Unit     | Topics                                 | Lectures                        |
++:========:+========================================+:===============================:+
+| 1        | Psychological Research & Biopsychology | What is Psychological Research? |
+|          |                                        |                                 |
+|          |                                        | Biopsychology                   |
++----------+----------------------------------------+---------------------------------+
+| 2        | Consciousness & Sensation/Perception   | Sleep & Circadian Rhythms       |
+|          |                                        |                                 |
+|          |                                        | Sensation & Perception          |
++----------+----------------------------------------+---------------------------------+
+| 3        | Learning, Memory, Cognition            | Conditioning                    |
+|          |                                        |                                 |
+|          |                                        | Memory                          |
++----------+----------------------------------------+---------------------------------+
+| 4        | Emotion, Motivation, Development       | Emotions & Motivation           |
+|          |                                        |                                 |
+|          |                                        | Puberty                         |
++----------+----------------------------------------+---------------------------------+
+| 5        | Personality, Social Psychology         | Classification - Personality    |
++----------+----------------------------------------+---------------------------------+
+| 6        | Psych Disorders, Therapy & Treatment   | Psych Disorders                 |
+|          |                                        |                                 |
+|          |                                        | Therapy                         |
++----------+----------------------------------------+---------------------------------+
+
+</div>
