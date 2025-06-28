@@ -9,4 +9,28 @@ Assignments are posted in myCourses. Please submit your work there.
 
 ## Description
 
+For this assignment, you will track your sleep for **four consecutive days**, then reflect on your sleep habits, quality, and patterns in relation to course concepts from the States of Consciousness chapter.
+
 **Points:** {{< var assign_points >}}
+
+## Guidelines
+
+Create a copy of the [Google Doc](https://docs.google.com/document/d/1VgITm0K6Qw6Le1LUfEELAW6qA4j8q-VUhEkLPP0yJAM/edit?usp=sharing) to track your sleep (or you can use the National Sleep Foundation diary if you would like) that was created for this class and based on the [National Sleep Foundation Sleep Diary](https://www.thensf.org/wp-content/uploads/2021/02/NSF-Sleep-Diary-Rev-2-2021.pdf).
+
+Track your sleep for four consecutive days being sure to fill out the information in each section. You will record the following:
+
+-   [Each Morning:]{.underline}
+
+    -   Time you went to bed
+    -   How challenging it was to fall asleep
+    -   Number and time of awakenings
+    -   What time you got out of bed
+    -   How rested you felt (1-10 scale)
+
+-   **Write a Reflection (200–300 words):**
+
+    -   Summarize your sleep patterns across the four days
+
+    -   Discuss how your sleep quantity and quality relate to concepts covered in the States of Consciousness module (e.g., stages of sleep, sleep deprivation, sleep hygiene)
+
+    -   Reflect on any changes you might make to improve your sleep
