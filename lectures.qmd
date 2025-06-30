@@ -16,7 +16,7 @@ This section will provide links to all slides in the course. Please review the s
 |           |                                        |                                                                                                                                                          |
 |           |                                        | [What is Psychological Research?](https://docs.google.com/presentation/d/14jGPac3nTNuV2EDU1OtO-IqH4zhZnhMqgtLJ8HaFFsk/edit?usp=sharing){target="_blank"} |
 |           |                                        |                                                                                                                                                          |
-|           |                                        | Biopsychology                                                                                                                                            |
+|           |                                        | [Biopsychology](https://docs.google.com/presentation/d/1aTar1Z4PkKf_cphoD1orM2qj3kwnGNJi6a9Z-vwBkh8/edit?usp=sharing){target="_blank"}                   |
 +-----------+----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 2         | Consciousness & Sensation/Perception   | Sleep & Circadian Rhythms                                                                                                                                |
 |           |                                        |                                                                                                                                                          |
