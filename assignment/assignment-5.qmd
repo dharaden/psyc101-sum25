@@ -19,19 +19,26 @@ Not all personality assessments are created equally. Some are built upon decades
 
 **Complete Two Assessments:**
 
--    **First Assessment (Research background):**
+-   **First Assessment (Research background):**
+    -   Take a ***Big Five Personality Test*** (Choose one below)
+        -   [**Open Psychometrics Big Five**](https://openpsychometrics.org/tests/IPIP-BFFM/)
+        -   [**IPIP-NEO Personality Inventory**](https://drj.virtualave.net/IPIP/ipipneo120.htm)
 
-    -   Take a **Big Five Personality Test** (e.g., Open Psychometrics Big Five).
+<!-- -->
 
 -   **Second Assessment (Less Validated):**
 
     -   Choose a less scientifically supported test such as:
 
-        -   **Myers-Briggs Type Indicator (MBTI)** (free version online)
+        -   [**Myers-Briggs Type Indicator (MBTI)**](https://www.16personalities.com/free-personality-test)
 
-        -   **Enneagram Test** (free version online)
+        -   [**Enneagram Test**](https://enneagramuniverse.com/)
 
         -   Another instructor-approved personality test lacking strong empirical support (send me an email with one you would like to use)
+
+::: callout-note
+You are not required to pay for anything. You do not need a "full report" for this assignment.
+:::
 
 **Record Your Results:**
 
@@ -58,7 +65,7 @@ Not all personality assessments are created equally. Some are built upon decades
 ### **Rubric (35 points total)**
 
 | Criteria | Points | Description |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **Assessment Descriptions & Results** | 10 | Clearly describes both assessments, including what each measures, how it classifies people, and accurately summarizes personal results for both tests. Demonstrates understanding of assessment content and outcomes. |
 | **Comparison & Analysis** | 10 | Thoughtfully compares and contrasts the two assessments, addressing differences in approach, classification, scientific validity, and personal accuracy. Integrates course concepts (e.g., validity, reliability, trait theory) to support analysis. |
 | **Connection to Personality Theory** | 5 | Identifies and explains at least one relevant personality theory from class (e.g., trait theory, humanistic approach) and connects it effectively to the critique or analysis of one or both assessments. |
