@@ -9,13 +9,61 @@ Assignments are also posted in myCourses. Please submit your assignment on myCou
 
 # Description
 
+Psychology is most powerful when it’s applied outside the classroom. For your final project, you’ll choose a format that allows you to **demonstrate your understanding of a key psychological topic** in a creative or analytical way. This is your chance to **dive deeper into a concept that interested you**, and communicate what you’ve learned clearly and effectively.
+
 **Points: 60**
 
 ## **Project Options (Choose One)**
 
-1.  **Podcast Episode (5–7 minutes):** Explain a psychological concept with examples. Could also include video.
-2.  **Infographic:** Visually explain a major topic (e.g., stages of sleep, types of memory).
-3.  **Short Paper (2–3 pages double spaced):** Analyze a psychological issue or concept.
-4.  **Public Service Announcement:** Educate others on a disorder or mental health topic.
+Choose a format that best fits your interest and strengths!
 
-## Rubric/Grading
+1.  **🎙️Podcast Episode or Video (5–7 minutes)**
+    -   Create a short podcast or video where you explain a psychological concept (e.g., classical conditioning, cognitive biases, stages of development). Something from class that was particularly interesting to you.
+    -   Try to include **real-life examples**, clear definitions, and engaging delivery.
+    -   You may include music, interviews, or sound effects if appropriate.
+    -   Be sure to provide a transcript of any audio you use.
+    -   Include **citations** **to at least one source** (articles, textbook, etc.).
+    -   Tools: Zoom, Audacity, OBS Studio, etc.
+2.  ℹ️**Infographic:**
+    -   Design a visual summary of a psychological topic (e.g., stages of sleep, memory systems, types of therapy).
+    -   Should include **visual elements** (e.g., icons, diagrams, flowcharts), and **text summaries.**
+    -   Include **citations** **to at least one source** (articles, textbook, etc.).
+    -   Tools: Canva, Piktochart, PowerPoint, etc.
+3.  **📄Short Paper (2–3 pages double spaced)**
+    -   Write a clear and concise analysis of a psychological issue, question, or concept.
+    -   Include **research-based explanations**, **relevant course concepts**, and at least **two sources**.
+    -   APA style encouraged but not required.
+4.  **📢Public Service Announcement**
+    -   Create a PSA (video, slideshow, or audio) on a psychological disorder or mental health issue.
+    -   Goal: **educate the public**, **correct misconceptions**, or **reduce stigma**.
+    -   Should include **facts, signs/symptoms, and possible interventions**.
+    -   Include **citations** **to at least one source** (articles, textbook, etc.).
+    -   Tools: Canva, PowerPoint, OBS Studio, etc.
+
+## **Content Requirements**
+
+No matter which format you choose, your project should:
+
+-    Clearly define and explain at least one major **psychological concept**.
+
+-   Include **real-life examples**, case studies, or applications.
+
+-   Show evidence of **critical thinking** and **connection to course materials**.
+
+-   Be appropriate for a general audience (e.g., high school or college-aged learners). Think about what might have grabbed your attention if you hadn't taken this course.
+
+# Submission Guidelines
+
+-   Submit your file to the appropriate assignment in myCourses.
+
+-   Include a **short paragraph (100–150 words)** explaining what you did, why you chose this format and anything else you want to share!
+
+# Rubric/Grading
+
+| Criteria | Points | Description |
+|----|:--:|----|
+| Concept Accuracy | 20 | Clearly explains psychological concept(s) with accuracy and appropriate terminology. Reflects deep understanding and integration of course content. |
+| Application & Critical Thinking | 15 | Effectively applies the concept to real-world examples or issues. Demonstrates critical thinking and insight. |
+| Creativity & Engagement | 10 | Uses a format that is creative, engaging, and well-suited to the topic. Holds the viewer/listener/reader’s attention. |
+| Clarity & Communication | 10 | Communicates ideas clearly, with well-organized structure, appropriate tone, and minimal grammar or language issues. |
+| Project Requirements | 5 | Meets expectations for chosen format (length, components, media quality, readability, etc.). |
